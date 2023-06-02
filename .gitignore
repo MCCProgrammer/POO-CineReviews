@@ -1,0 +1,11 @@
+# Eclipse build output and settings
+bin/
+*.class
+.classpath
+.project
+.settings/
+
+# submitted archive (same code as src/)
+*.zip
+
+.DS_Store
